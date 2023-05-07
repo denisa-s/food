@@ -6,30 +6,24 @@
         "Rating":"5"
    },
  {
-        "Name":"Cat food",
-        "Image":"https://shop-cdn-m.mediazs.com/bilder/concept/for/life/beauty/adult/reet/mbuntit/1/800/76008_pla_concept_for_life_beauty_adult_3_kg_1.jpg",
-        "Details":"Pentru o viață lungă și activă, pisica are nevoie de o alimentație echilibrată și adecvată speciei. În cazul pisicilor, strălucirea blănii și starea pielii sunt semne care ne pot spune dacă acestea primesc toate vitaminele importante și toate substanțele nutritive de care au nevoie. Când acestea lipsesc sau nu sunt furnizate în cantități suficiente, blana își pierde strălucirea. Concept for Life Beauty este o hrană special creată pentru pisicile adulte cu piele sensibilă și blană deasă sau lungă, ce contribuie la strălucirea blănii și sprijină sănătatea pielii piscilor. ",
-        "Ingredients":"36,3 % proteină de pui (parțial deshidratată și hidrolizată), 23,7 % orez, 14 % carne proaspătă de pui, grăsime de pasăre, 3,8 % lignoceluloză, 3,5 % pulpă de sfeclă deshidratată, 2 % semințe de in, 1,1 % ulei de somon, drojdie de bere (deshidratată), 0,7 % ulei de floarea-soarelui, clorură de sodiu, clorură de potasiu, ou (deshidratat), 0,2 % ulei de limba mielului, 0,2 % inulină din cicoare, 0,1 % făină de alge (bogată în DHA), 0,1 % coji de semințe de psyllium, 0,02 % Yucca schidigera (deshidratată).",
-        "FeedingRecommendation":"A se servi la temperatura camerei. Lasă mereu la îndemâna pisicii apă proaspătă.",
-        "Price":"11,90",
-        "Rating":"3,5"
-   },
- {
-        "Name":"Concept for dogs",
-        "Image":"https://shop-cdn-m.mediazs.com/bilder/concept/for/life/beauty/adult/reet/mbuntit/1/800/76008_pla_concept_for_life_beauty_adult_3_kg_1.jpg",
-        "Details":"Pentru o viață lungă și activă, pisica are nevoie de o alimentație echilibrată și adecvată speciei. În cazul pisicilor, strălucirea blănii și starea pielii sunt semne care ne pot spune dacă acestea primesc toate vitaminele importante și toate substanțele nutritive de care au nevoie. Când acestea lipsesc sau nu sunt furnizate în cantități suficiente, blana își pierde strălucirea. Concept for Life Beauty este o hrană special creată pentru pisicile adulte cu piele sensibilă și blană deasă sau lungă, ce contribuie la strălucirea blănii și sprijină sănătatea pielii piscilor. ",
-        "Ingredients":"36,3 % proteină de pui (parțial deshidratată și hidrolizată), 23,7 % orez, 14 % carne proaspătă de pui, grăsime de pasăre, 3,8 % lignoceluloză, 3,5 % pulpă de sfeclă deshidratată, 2 % semințe de in, 1,1 % ulei de somon, drojdie de bere (deshidratată), 0,7 % ulei de floarea-soarelui, clorură de sodiu, clorură de potasiu, ou (deshidratat), 0,2 % ulei de limba mielului, 0,2 % inulină din cicoare, 0,1 % făină de alge (bogată în DHA), 0,1 % coji de semințe de psyllium, 0,02 % Yucca schidigera (deshidratată).",
-        "FeedingRecommendation":"A se servi la temperatura camerei. Lasă mereu la îndemâna pisicii apă proaspătă.",
-        "Price":"11,90",
-        "Rating":"3,5"
-   },
- {
-        "Name":"Concept for Life",
-        "Image":"https://shop-cdn-m.mediazs.com/bilder/concept/for/life/beauty/adult/reet/mbuntit/1/800/76008_pla_concept_for_life_beauty_adult_3_kg_1.jpg",
-        "Details":"Pentru o viață lungă și activă, pisica are nevoie de o alimentație echilibrată și adecvată speciei. În cazul pisicilor, strălucirea blănii și starea pielii sunt semne care ne pot spune dacă acestea primesc toate vitaminele importante și toate substanțele nutritive de care au nevoie. Când acestea lipsesc sau nu sunt furnizate în cantități suficiente, blana își pierde strălucirea. Concept for Life Beauty este o hrană special creată pentru pisicile adulte cu piele sensibilă și blană deasă sau lungă, ce contribuie la strălucirea blănii și sprijină sănătatea pielii piscilor. ",
-        "Ingredients":"36,3 % proteină de pui (parțial deshidratată și hidrolizată), 23,7 % orez, 14 % carne proaspătă de pui, grăsime de pasăre, 3,8 % lignoceluloză, 3,5 % pulpă de sfeclă deshidratată, 2 % semințe de in, 1,1 % ulei de somon, drojdie de bere (deshidratată), 0,7 % ulei de floarea-soarelui, clorură de sodiu, clorură de potasiu, ou (deshidratat), 0,2 % ulei de limba mielului, 0,2 % inulină din cicoare, 0,1 % făină de alge (bogată în DHA), 0,1 % coji de semințe de psyllium, 0,02 % Yucca schidigera (deshidratată).",
-        "FeedingRecommendation":"A se servi la temperatura camerei. Lasă mereu la îndemâna pisicii apă proaspătă.",
+        "Name":"Applaws Adult",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/applaws/adult/pui/somon/4/800/26663_pla_applaws_cat_adult_huhnlachs_400g_hs_01_4.jpg",
+        "Details":"Applaws dry cat food uses meat and fish as a unique source of protein that can be converted into energy by your cat. It is also suitable for cats that are allergic or have certain food sensitivities. Applaws dry food contains no artificial preservatives. The added antioxidants for longer food preservation are derived from natural selenium and natural tocopherol which have a positive effect on your cat's health and vitality.",
         "Price":"19,90",
-        "Rating":"3,5"
+        "Rating":"5"
+   },
+ {
+        "Name":"Hill's Science Plan Adult Sterilised Chicken",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/hills/science/plan/adult/sterilised/chicken/4/800/607271_0_4.jpg",
+        "Details":"Hill's Science Plan Adult Sterilized Chicken is a food optimally adapted to sterilized cats. Many owners sterilize their cats to avoid unwanted pregnancy and certain behaviors. Shortly after sterilization, the cat's metabolism changes decisively, and energy consumption decreases with a simultaneous increase in appetite. That's why Hill's Science Plan Adult Sterilized Chicken was developed for daily feeding. This allows optimal support for young adult cats. Hill's Weight Management Formula can help your cat maintain an ideal weight. The food recipe is complete, without artificial preservatives, colors and flavors.",
+        "Price":"89,90",
+        "Rating":"4"
+   },
+ {
+        "Name":"Purina Cat Chow Special Care Adult Sterilised",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/purina/cat/chow/special/care/adult/sterilised/8/800/59781_pla_nestle_cat_chow_adult_special_care_sterilised_1_5kg_8.jpg",
+        "Details":"Cat Chow Adult Special Care Sterilized was specially designed for sterilized cats. Before sterilization, the cat's metabolism regulates the need for energy, and the cat will only eat enough to satisfy this need. After sterilization, this self-regulation process is affected, and the cat will eat more than it needs, which will quickly lead to obesity. Even just 48 hours after sterilization, the amount of food eaten will increase by 20% while the energy requirement will decrease by 30%. A low level of carbohydrates can lead to a slight increase in blood sugar and thus avoid the premature feeling of hunger.",
+        "Price":"39,90",
+        "Rating":"4,5"
    }
 ]
