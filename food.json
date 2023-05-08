@@ -25,5 +25,54 @@
         "Details":"Cat Chow Adult Special Care Sterilized was specially designed for sterilized cats. Before sterilization, the cat's metabolism regulates the need for energy, and the cat will only eat enough to satisfy this need. After sterilization, this self-regulation process is affected, and the cat will eat more than it needs, which will quickly lead to obesity. Even just 48 hours after sterilization, the amount of food eaten will increase by 20% while the energy requirement will decrease by 30%. A low level of carbohydrates can lead to a slight increase in blood sugar and thus avoid the premature feeling of hunger.",
         "Price":"39,90",
         "Rating":"4,5"
-   }
+   },
+ {
+        "Name":"Purina ONE Junior",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/purina/one/junior/1/400/324706_purinaone_junior_750g_hs_01_1_1__1.jpg",
+        "Details":"Purina ONE Junior is a tasty dry food that is specially developed for growing kittens from 1 to 12 months. The food includes selected ingredients and provides all the nutrients and vital substances that the kitten needs during the growth phase. The food can also be given to pregnant and lactating cats. Purina ONE Junior contains carefully selected ingredients - especially delicious chicken, which serves as a source of animal protein. Proteins are important for building muscle mass. The recipe is completed by a complex of active ingredients, which provide valuable substances to support the immune system. Ingredients such as fish oil and chicory root complete the composition of Purina ONE Junior complete food, which can be given to the kitten every day.",
+        "Price":"19,90",
+        "Rating":"5"
+   },
+ {
+        "Name":"PURINA PRO PLAN Kitten Healthy Start",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/purina/pro/plan/kitten/healthy/start/bogat/n/pui/9/800/84272_purina_proplan_original_kitten_reichhuhn_3kg_hs_02_9.jpg",
+        "Details":"PURINA PRO PLAN Kitten Healthy Start rich in chicken is a complete food for young kittens (between 1 and 12 months) and for pregnant or lactating cats. In the first year of life, your kitten develops its own natural defense system against harmful factors in the environment, a system that will be responsible for your cat's health throughout its life. The immune system is the basis of this defense system. The kitten builds its own natural defense system that protects its entire body. It provides protection for the digestive system, skin and fur, and the urinary system. Young cats need a balanced supply of nutrients in the first year of life to guarantee optimal development of the body's defense system - and PRO PLAN food provides the cat with all the essential nutrients to help it grow and develop properly , to enjoy a long and healthy life.",
+        "Price":"119,90",
+        "Rating":"3"
+   },
+ {
+        "Name":"Purizon Kitten",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/purizon/kitten/pui/cu/pete/fr/cereale/7/800/purizon_kitten_chickenfish_6_5kg_1000x1000_7.jpg",
+        "Details":"Purizon Kitten is optimally adapted to the individual needs of pregnant and lactating kittens and cats of all breeds and sizes. Purizon Kitten has been developed to ensure that the kitten receives the best possible care during the important growth phase. That's why Purizon Kitten has a high protein content of 44% from high-quality animal ingredients, as well as fresh meat and recently caught fish for controlled growth. Added calcium and a balanced calcium-phosphorus ratio support proper bone and tooth development.",
+        "Price":"214,90",
+        "Rating":"5"
+   },
+ {
+        "Name":"Royal Canin Savour Exigent",
+        "Image":"https://shop-cdn-m.mediazs.com/bilder/royal/canin/savour/exigent/hran/uscat/pentru/pisici/pretenioase/1/800/61232_pla_royalcanin_savour_exigent_1.jpg",
+        "Details":"Royal Canin Exigent Savor Adult is food for cats with a capricious appetite, 2 types of granules for a high degree of tolerance, correct digestion & maintenance of ideal weight. Royal Canin has developed the Exigent product line to meet the nutritional needs of fussy cats, even the most demanding ones. Based on the latest scientific studies, the product responds to the preferences of each cat. For over 40 years, Royal Canin has developed a wide range of "Healthy Nutrition" products with the health of your pet as the main focus. Only with accurate knowledge of nutritional needs and individual respect for each pet can the perfect food be produced.",
+        "Price":"174,90",
+        "Rating":"3,5"
+   },
+ {
+        "Name":"",
+        "Image":"",
+        "Details":"",
+        "Price":"19,90",
+        "Rating":"5"
+   },
+ {
+        "Name":"PURINA PRO PLAN Kitten Healthy Start",
+        "Image":"",
+        "Details":"",
+        "Price":"19,90",
+        "Rating":"5"
+   },
+ {
+        "Name":"",
+        "Image":"",
+        "Details":"",
+        "Price":"19,90",
+        "Rating":"5"
+   },
 ]
